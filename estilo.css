@@ -1,0 +1,13 @@
+header{background-color: #647B7D; 
+        padding: 100px 0px 75px 0px;
+        text-align:center;
+        color:#FFFFFF;} 
+header h1{font-family: 'impact'; 
+        font-size: 3rem;}
+header h2{font-family: 'arual', sans-serif; 
+        font-size: 1.8rem; font-weight: 100;}
+article#infodelfotografo{background-color: #647B7D; 
+                       padding: 70px 0px 70px 70px; 
+                        height: 417px;}
+article#infodelfotografo img{float: left; margin-right: 300px;}
+div#video{clear: both;}
